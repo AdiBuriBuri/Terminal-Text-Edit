@@ -25,7 +25,6 @@ fg_cyan = "\033[96m"
 font_bold = "\033[1m"
 font_italic = "\033[3m"
 font_underline = "\033[4m"
-font_reverse = "\033[7m"
 font_reset = "\033[0m"
 
 print(f"""
@@ -129,8 +128,7 @@ while True:
     print(f"\n{bg_cyan}{font_bold}{color_white} Choose BG color for your text: {color_reset}")
     print(f"1. {font_bold}BOLD{font_reset}")
     print(f"2. {font_italic}Italic{font_reset}")
-    print(f"3. {font_reverse}Reverse{font_reset}")
-    print(f"4. {font_underline}Underline{font_reset}")
+    print(f"3. {font_underline}Underline{font_reset}")
 
     tex_style_input = input(f"{font_bold}Enter Font style: {font_reset}")
 
@@ -139,8 +137,6 @@ while True:
     elif tex_style_input == "2":
         font_choice = font_italic
     elif tex_style_input == "3":
-        font_choice = font_reverse
-    elif tex_style_input == "4":
         font_choice = font_underline
     else:
         print(f"{color_red}Invalid choice! Defaulting to white.{color_reset}")
