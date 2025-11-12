@@ -10,7 +10,7 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 ✅ **Interactive Menus** — Step-by-step selection for color and font style.  
 ✅ **Live Preview** — Instantly see your text update with new styles.  
 ✅ **7 Foreground & Background Colors** — 🎨  
-✅ **Font Styles:** Bold, Italic, Underline, Reverse.  
+✅ **Font Styles:** Bold, Italic, Underline.  
 ✅ **Loop Until You’re Happy** — Adjust endlessly until your design is perfect.  
 
 ---
@@ -39,7 +39,6 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 | **Bold** | `\033[1m` | **Bold Text** |
 | *Italic* | `\033[3m` | *Italic Text* |
 | <u>Underline</u> | `\033[4m` | Underlined Text |
-| Reverse | `\033[7m` | Reverse Colors |
 
 ---
 
