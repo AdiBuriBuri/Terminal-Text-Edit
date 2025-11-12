@@ -59,5 +59,4 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 
 ### 🧩 Step 1: Clone or Download
 ```bash
-git clone https://github.com/yourusername/terminal-text-styler.git
-cd terminal-text-styler
+git clone https://github.com/AdiBuriBuri/Terminal-Text-Styler.git
