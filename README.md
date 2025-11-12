@@ -54,8 +54,6 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 5️⃣ You can repeat until you finalize your perfect style.
 
 ---
-Your Styled Text:  [BG: Blue] [FG: Yellow] [Style: Bold]
-Hello World
 
 ## 🚀 **Usage Instructions**
 
