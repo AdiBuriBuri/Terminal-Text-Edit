@@ -9,8 +9,8 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 
 ✅ **Interactive Menus** — Step-by-step selection for color and font style.  
 ✅ **Live Preview** — Instantly see your text update with new styles.  
-✅ **7 Foreground & Background Colors** — 🎨  
-✅ **Font Styles:** Bold, Italic, Underline.  
+✅ **7 Foreground & Background Colors**
+✅ **Font Styles-** Bold, Italic, Underline.  
 ✅ **Loop Until You’re Happy** — Adjust endlessly until your design is perfect.  
 
 ---
