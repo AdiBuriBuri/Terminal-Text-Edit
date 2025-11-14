@@ -98,12 +98,12 @@ cd Terminal-Text-Styler
 
 #### **On Windows:**
 ```bash
-python terminal_styler.py
+python TextFormatter.py
 ```
 
 #### **On macOS/Linux:**
 ```bash
-python3 terminal_styler.py
+python3 TextFormatter.py
 ```
 
 ---
