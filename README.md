@@ -24,7 +24,6 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
 | 🟢 **Green**  | `32`    | `\033[32m`   | 🟩      |
 | 🟡 **Yellow** | `33`    | `\033[33m`   | 🟨      |
 | 🟣 **Magenta**| `35`    | `\033[35m`   | 🟪      |
-| 🔵 **Cyan**   | `36`    | `\033[36m`   | 🟦      |
 | ⚪ **White**  | `37`    | `\033[37m`   | ⬜      |
 
 ---
