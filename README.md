@@ -50,8 +50,8 @@ Easily choose **foreground**, **background**, and **font styles** interactively 
    - Choose a **foreground color (FG)**  
    - Choose a **background color (BG)**  
    - Pick a **font style** (bold/italic/etc.)  
-4️⃣ The text is displayed with your selected combination.  
-5️⃣ You can repeat until you finalize your perfect style.
+   - The text is displayed with your selected combination.  
+   - You can repeat until you finalize your perfect style.
 
 ---
 
